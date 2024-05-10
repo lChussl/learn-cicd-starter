@@ -1,3 +1,4 @@
+![code coverage badge](https://github.com/lChussl/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 # .
 # learn-cicd-starter (Notely)
 
